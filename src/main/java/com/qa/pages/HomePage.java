@@ -7,7 +7,7 @@ public class HomePage {
 
 				System.out.println("Home Page Method");
                 System.out.println("Button found");
-		
+                System.out.println("Forword to next page");
 	}
 
 }
