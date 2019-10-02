@@ -6,6 +6,7 @@ public class HomePage {
 		// TODO Auto-generated method stub
 
 		System.out.println("Home Page Method");
+                System.out.println("Button found");
 		
 	}
 
