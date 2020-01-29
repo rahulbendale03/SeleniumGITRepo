@@ -9,4 +9,10 @@ public class TestMethod1 {
 	{
 		System.out.println("test method2");
 	}
+	
+	@Test
+	public void testmethod2()
+	{
+		System.out.println("test method3");
+	}
 }
